@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{cao_simon_wei_sheikh_2017}
+Z.~Cao, T.~Simon, S.-E. Wei, and Y.~Sheikh, ``Realtime multi-person 2d pose
+  estimation using part affinity fields,'' {\em 2017 IEEE Conference on
+  Computer Vision and Pattern Recognition (CVPR)}, 2017.
+
+\bibitem{criminisi_perez_toyama_2004}
+A.~Criminisi, P.~Perez, and K.~Toyama, ``Region filling and object removal by
+  exemplar-based image inpainting,'' {\em IEEE Transactions on Image
+  Processing}, vol.~13, no.~9, p.~1200–1212, 2004.
+
+\bibitem{nazeri_ng_joseph_qureshi_ebrahimi_2019}
+K.~Nazeri, E.~Ng, T.~Joseph, F.~Z. Qureshi, and M.~Ebrahimi, ``Edgeconnect:
+  Generative image inpainting with adversarial edge learning,'' Jan 2019.
+
+\end{thebibliography}

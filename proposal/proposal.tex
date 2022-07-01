@@ -46,6 +46,8 @@
 In a previous project Human Pose Estimation (Figure 1) has been successfully implemented on an edge FPGA (\href{https://www.hackster.io/michi_michi/hardware-accelerated-human-pose-estimation-kv260-ias-cam-d5ebb9}{Blog post}).
 AMD-Xilinx Vitis AI was used to compute the deep neural network.
 Accordingly, the basic work has already been done and an advanced, complete system could be developed.
+The far vision is to have product which guarantees a privacy safe output.
+For example a camera with an output which only delivers an image with the human poses and no actual people.
 
 \begin{figure}[ht!]  
     \begin{subfigure}[t]{.45\textwidth}
@@ -69,10 +71,10 @@ Accordingly, the basic work has already been done and an advanced, complete syst
       \begin{itemize}
           \item  Implementation in \texttt{C++} and \texttt{HLS}
       \end{itemize}
-      \item Removing the person in the image and only dispaly the human pose
+      \item Removing the person in the image and only display the human pose
       \begin{itemize}
-        \item Simple approaches like, paint an human avatar over the person
-          \item Classical computer vision Image Inpainting approaches like \cite{criminisi_perez_toyama_2004}
+        \item Simple approaches like, paint a human avatar over the person or use a prerecorded background and display the pose on that
+          \item Classical computer vision Image inpainting approaches like \cite{criminisi_perez_toyama_2004}
           \begin{itemize}
               \item \texttt{HLS}
           \end{itemize}
@@ -81,6 +83,11 @@ Accordingly, the basic work has already been done and an advanced, complete syst
               \item Vitis AI
           \end{itemize}
       \end{itemize}
+      \item Adding 3D capability with e.g. a stereo vision or time of flight camera
+      \begin{itemize}
+        \item Showing a room in 3D with humans displayed as avatars or stick figure
+        \item Coordinate transformation done in \texttt{HLS} 
+      \end{itemize} 
   \end{itemize}
 
   

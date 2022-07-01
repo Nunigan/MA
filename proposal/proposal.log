@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.21)  30 JUN 2022 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.7.8)  1 JUL 2022 16:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/nunigan/Documents/MA/proposal/proposal.tex
-(/home/nunigan/Documents/MA/proposal/proposal.tex
+**/home/nunigan/MA/proposal/proposal.tex
+(/home/nunigan/MA/proposal/proposal.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
@@ -1116,7 +1116,7 @@ Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 LaTeX Info: Redefining \translate on input line 183.
-)) (/home/nunigan/Documents/MA/proposal/proposal.aux)
+)) (/home/nunigan/MA/proposal/proposal.aux)
 \openout1 = `proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 42.
@@ -1316,7 +1316,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 42.
 LaTeX Info: Redefining \pageref on input line 42.
 LaTeX Info: Redefining \nameref on input line 42.
- (/home/nunigan/Documents/MA/proposal/proposal.out) (/home/nunigan/Documents/MA/proposal/proposal.out)
+ (/home/nunigan/MA/proposal/proposal.out) (/home/nunigan/MA/proposal/proposal.out)
 \@outlinefile=\write5
 \openout5 = `proposal.out'.
 
@@ -1357,26 +1357,26 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <17.28> not available
 <images/board.png, id=8, 637.4214pt x 637.4214pt>
 File: images/board.png Graphic file (type png)
 <use images/board.png>
-Package pdftex.def Info: images/board.png  used on input line 53.
+Package pdftex.def Info: images/board.png  used on input line 55.
 (pdftex.def)             Requested size: 204.85844pt x 204.85437pt.
 <images/board_conf.png, id=10, 185.0112pt x 185.0112pt>
 File: images/board_conf.png Graphic file (type png)
 <use images/board_conf.png>
-Package pdftex.def Info: images/board_conf.png  used on input line 60.
+Package pdftex.def Info: images/board_conf.png  used on input line 62.
 (pdftex.def)             Requested size: 204.85844pt x 204.868pt.
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 67.
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 69.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for T1+txtt on input line 67.
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 69.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <12> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 70.
- (/home/nunigan/Documents/MA/proposal/proposal.bbl [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 72.
+ (/home/nunigan/MA/proposal/proposal.bbl [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- </home/nunigan/Documents/MA/proposal/images/board.png> </home/nunigan/Documents/MA/proposal/images/board_conf.png>] [2
+ </home/nunigan/MA/proposal/images/board.png> </home/nunigan/MA/proposal/images/board_conf.png>] [2
 
 ]
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <24.88> not available
@@ -1387,25 +1387,25 @@ Underfull \hbox (badness 1102) in paragraph at lines 9--12
  []
 
 ) [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
- (/home/nunigan/Documents/MA/proposal/proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
+ (/home/nunigan/MA/proposal/proposal.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `proposal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
  42389 strings out of 481239
- 932532 string characters out of 5920377
- 1316775 words of memory out of 5000000
+ 932382 string characters out of 5920378
+ 1317778 words of memory out of 5000000
  56750 multiletter control sequences out of 15000+600000
  573958 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,8n,98p,3276b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,8n,98p,3266b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/nunigan/Documents/MA/proposal/proposal.pdf (3 pages, 825916 bytes).
+Output written on /home/nunigan/MA/proposal/proposal.pdf (3 pages, 826520 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
